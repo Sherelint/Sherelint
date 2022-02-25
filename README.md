@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sherelin
-- 🌱 I'm currently working in a French Verb Conjugation Web App.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I also leaarning piano and French.
+- 🌱 I'm currently working in Colt's ColorBox Palettes Web App.
+- 🥅 2022 Goals: Find a job as React Developer
+- ⚡ Fun fact: I also learning piano and French.
 ### Connect with me:
 [<img align="left" alt="Sherelint | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sherelin-Thomas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,6 +20,6 @@
 <br />
 
 
-[twitter]: https://twitter.com/sherelint
-[instagram]: https://instagram.com/sherelinthomas
-[linkedin]: https://linkedin.com/in/sherelin-thomas/
+[twitter]:https://twitter.com/sherelint
+[instagram]:https://instagram.com/sherelinthomas
+[linkedin]:https://linkedin.com/in/sherelin-thomas/
