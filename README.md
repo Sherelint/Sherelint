@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sherelin Thomas
 
-I’m a Fullstack Developer (MERN) with a degree in System and Computer Engineering currently learning Web 3.0.
+I’m a Fullstack Developer (MERN) with a degree in System and Computer Engineering currently learning Typescript & Cypress.
 
 ##### BIO
 
