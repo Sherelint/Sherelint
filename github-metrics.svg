@@ -1487,7 +1487,7 @@
                                         <span>starred Feb 06 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime</div>
+                                <div class="field description">Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2009,7 +2009,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Apr 2023, 05:09:33 (timezone America/Mexico_City) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Apr 2023, 06:08:08 (timezone America/Mexico_City) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
