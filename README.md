@@ -8,7 +8,6 @@ I’m a Fullstack Developer (MERN) with a degree in System and Computer Engineer
 - ⚙️ I use daily: `JS`, `HTML`, `CSS`, `React`, `Redux`, `MongoDB`
 - 🌱 Learning all about _Web Dev_
 
-![Metrics](https://metrics.lecoq.io/Sherelint?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FPanama)
 
 ### LANGUAGES AND TOOLS 🛠
 
