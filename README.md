@@ -18,7 +18,7 @@ I’m a Fullstack Developer with a degree in System and Computer Engineering cur
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![.NET](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![.NET](https://img.shields.io/badge/-.NET-%231572B6?style=flat-square&logo=net)
 
 ##### YOU CAN ALSO ME AT
 
